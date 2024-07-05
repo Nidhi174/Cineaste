@@ -1,12 +1,4 @@
-# Cineaste
-Team Name : Cineaste
-
-	MEMBERS:
-                 1.Prakhar Mishra - https://github.com/lancelot-zen
-                 2.Piyush Patel - https://github.com/monkepi18
-                 3.Divyansh Gangwar - https://github.com/divyansh9260
-                 4.Mihir Ojha - https://github.com/scarvage
-
+# Movie-Hub
 INTRO OF THE PROJECT: A website to browse movies and create a watchlist together. An idea to create a solution
 where they can browse movies and create a watchlist together.
  
